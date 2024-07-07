@@ -6,4 +6,7 @@ edition = "2021"
 license = "MIT"
 
 [dependencies]
+anyhow = "1.0.86"
+bytes = "1.6.0"
 enum_dispatch = "0.3.13"
+thiserror = "1.0.61"
